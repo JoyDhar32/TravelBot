@@ -6,6 +6,7 @@ TravelBot is an innovative web and mobile application designed to simplify your 
 
 ![image](https://github.com/user-attachments/assets/cc389c51-fddd-4fb7-b4fc-2fa03763ecc7)
 
+![image](https://github.com/user-attachments/assets/9c3861fa-057f-4534-937b-c703df7af19d)
 
 ## Features
 
@@ -20,5 +21,7 @@ TravelBot is an innovative web and mobile application designed to simplify your 
 - **Shadcn UI**: A component library for React that provides a set of ready-made UI components.
 - **React JS**: A JavaScript library for building user interfaces.
 - **Firebase**: A platform developed by Google for creating mobile and web applications.
+- - **Google API**: Utilized for various data and service integrations.
+- **Gemini API**: Implemented to enhance AI-driven recommendations.
 
 
