@@ -26,7 +26,7 @@ import {
         {
           role: "user",
           parts: [
-            {text: "Generate Travel Plan for Location : Sydney Opera House, for 3 days for individual with a Cheap budget, Give me a Hotels options list with Hotel Name, Hotel address, Price, hotel image URL, geo coordinates, rating, descriptions and suggest itinerary with placename, Place Details, Place image URL, Geo Coordinates, ticket Pricing , Time to travel each of the location for 3 days with each day plan with best time to visit in JSON format\n"},
+            {text: "Generate Travel Plan for Location : Sydney Opera House, for 3 days for individual with a Cheap budget, Give me minimum 6 Hotels options list  with Hotel Name, Hotel address, Price, hotel image URL, geo coordinates, rating, descriptions and suggest itinerary with placename, Place Details, Place image URL, Geo Coordinates, ticket Pricing , Time to travel each of the location for 3 days with each day plan with best time to visit in JSON format\n"},
           ],
         },
         {
