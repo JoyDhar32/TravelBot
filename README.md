@@ -1,8 +1,27 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+TravelBot
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+TravelBot is an innovative web and mobile application designed to simplify your travel planning experience. With TravelBot, users can effortlessly select their destination, length of stay, number of travelers, and budget to receive personalized hotel recommendations. Utilizing advanced AI algorithms, TravelBot ensures you find the best accommodations tailored to your needs, making your trip planning seamless and enjoyable.
+
+![image](https://github.com/user-attachments/assets/cc389c51-fddd-4fb7-b4fc-2fa03763ecc7)
+
+![image](https://github.com/user-attachments/assets/9c3861fa-057f-4534-937b-c703df7af19d)
+
+## Features
+
+- Select destination, days of stay, number of travelers, and budget
+- Receive personalized hotel recommendations
+- User-friendly interface with modern design
+- Seamless integration on web and mobile platforms
+
+## Technologies Used
+
+- **Tailwind CSS**: A utility-first CSS framework for rapidly building custom designs.
+- **Shadcn UI**: A component library for React that provides a set of ready-made UI components.
+- **React JS**: A JavaScript library for building user interfaces.
+- **Firebase**: A platform developed by Google for creating mobile and web applications.
+- - **Google API**: Utilized for various data and service integrations.
+- **Gemini API**: Implemented to enhance AI-driven recommendations.
+
+
