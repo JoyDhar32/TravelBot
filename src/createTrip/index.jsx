@@ -14,6 +14,7 @@ import {
   DialogContent,
   DialogDescription,
   DialogHeader,
+  DialogClose,
   DialogTitle,
   DialogTrigger,
 } from "@/components/ui/dialog";
@@ -213,6 +214,15 @@ const index = () => {
       <Dialog open={openDialog}>
         <DialogContent>
           <DialogHeader>
+          <DialogClose className="absolute top-4 right-4">
+                <button
+                  aria-label="Close"
+                  className="px-4 py-2 hover:font-bold  rounded-full hover:bg-gray-200"
+                  onClick={() => setOpenDialog(false)}
+                >
+                  X
+                </button>
+              </DialogClose>
             <DialogDescription>
               <img src="/logo.svg" />
               <h2 className="font-bold text-lg mt-6">Sign In With Google</h2>
