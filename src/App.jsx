@@ -1,17 +1,23 @@
-import { useState } from 'react'
-import './App.css'
+import { useState } from "react";
+import "./App.css";
 
-
-import Hero from './components/custom/Hero'
+import Hero from "./components/custom/Hero";
+import Header from "./components/custom/Header";
+import { Toaster } from "sonner";
+import { Outlet } from "react-router-dom";
+import Footer from "./components/custom/Footer";
 
 function App() {
-  const [count, setCount] = useState(0)
+
 
   return (
     <>
-   <Hero/>
+      <Header />
+      <Toaster />
+      <Outlet />
+      <Footer />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
