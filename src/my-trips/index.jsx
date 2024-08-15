@@ -30,7 +30,7 @@ const index = () => {
     });
   };
   return (
-    <div className="sm:px-10 px-5 md:px-32 lg:px-56 xl:px-72  mt-10">
+    <div className="sm:px-10 px-5 md:px-32 lg:px-56 xl:px-72  mt-10 h-full">
       <h2 className="font-bold text-3xl">My Trips</h2>
       <div className="grid grid-cols-2 md:grid-cols-3 gap-5 mt-10">
         {userTrips?.length > 0

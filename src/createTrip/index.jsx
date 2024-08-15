@@ -224,7 +224,7 @@ const index = () => {
                 </button>
               </DialogClose>
             <DialogDescription>
-              <img src="/logo.svg" />
+              <img src="/logo2.png" />
               <h2 className="font-bold text-lg mt-6">Sign In With Google</h2>
               <p>To generate a travel plan, you need to sign in with google</p>
               <Button
@@ -232,7 +232,7 @@ const index = () => {
                 onClick={login}
               >
                 <FcGoogle className="h-7 w-7" />
-                SignIn With Google
+                Sign In With Google
               </Button>
             </DialogDescription>
           </DialogHeader>
