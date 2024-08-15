@@ -57,9 +57,9 @@ const Header = () => {
       <div className="p-2 shadow-sm flex justify-between items-center px-5 md:px-12">
         <Link to="/">
           <img
-            src="./logo.svg"
+            src="./logo2.png"
             alt="logo"
-            className="h-16 w-24 md:h-16 md:w-40 lg:h-16 lg:w-40 "
+            className="h-16 w-32 md:h-16 md:w-[200px] lg:h-16 lg:w-[200px]  "
           />
         </Link>
         <div>
