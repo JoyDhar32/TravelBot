@@ -4,9 +4,11 @@ TravelBot
 
 TravelBot is an innovative web and mobile application designed to simplify your travel planning experience. With TravelBot, users can effortlessly select their destination, length of stay, number of travelers, and budget to receive personalized hotel recommendations. Utilizing advanced AI algorithms, TravelBot ensures you find the best accommodations tailored to your needs, making your trip planning seamless and enjoyable.
 
-![image](https://github.com/user-attachments/assets/cc389c51-fddd-4fb7-b4fc-2fa03763ecc7)
-
-![image](https://github.com/user-attachments/assets/9c3861fa-057f-4534-937b-c703df7af19d)
+![web1](https://github.com/user-attachments/assets/d19c405b-2575-4308-ab07-1d89682e0a41)
+![web2](https://github.com/user-attachments/assets/2774e328-494e-4e98-bbf8-da8d5d392e0d)
+![web3](https://github.com/user-attachments/assets/3b3155d6-bc34-4ca6-947e-f5317d9cf8cc)
+![web4](https://github.com/user-attachments/assets/c322e241-56e0-418f-9668-a510c06111eb)
+![web5](https://github.com/user-attachments/assets/2827035e-2e2c-4888-9e04-1a0495a01bb5)
 
 ## Features
 
