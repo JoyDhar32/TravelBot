@@ -11,7 +11,7 @@ const Hero = () => {
     {/* Content */}
     <div className="relative z-10">
       <h1 className="font-extrabold text-3xl lg:text-7xl md:text-7xl text-[#f56551]">
-        AdventureBot: Your AI Travel Companion
+        TripBot: Your AI Travel Companion
       </h1>
       <h3 className="font-extrabold text-xl lg:text-5xl md:text-5xl text-white my-4">
         Discover Personalized Journeys with Cutting-Edge AI Technology
